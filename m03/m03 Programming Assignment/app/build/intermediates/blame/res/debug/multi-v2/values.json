@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jesseduncan/School/sdev264/m03/ch03_ex1_Invoice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/jesseduncan/School/sdev264/m03/ch03_ex1_Invoice/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,12,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,483,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,37,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,516,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,222,271,339,390,420,472,543,583",
+                        "endColumns": "50,49,65,48,67,50,29,51,70,39,45",
+                        "endOffsets": "101,151,217,266,334,385,415,467,538,578,624"
+                    }
+                },
+                {
+                    "source": "/Users/jesseduncan/School/sdev264/m03/ch03_ex1_Invoice/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "629",
+                        "endColumns": "76",
+                        "endOffsets": "701"
+                    }
+                }
+            ]
+        }
+    ]
+}

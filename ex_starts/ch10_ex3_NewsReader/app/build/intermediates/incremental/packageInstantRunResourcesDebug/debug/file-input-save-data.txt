@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Nov 02 15:15:20 EDT 2017
+2.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_item.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\activity_item_2.xml
+5.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\activity_items.xml
+6.set=ANDROID_RESOURCE
+0.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_items.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=G\:\\00_Mentor\\Fixed\\ch10_ex3_NewsReader\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\listview_item.xml
+0.set=ANDROID_RESOURCE

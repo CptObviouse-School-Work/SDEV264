@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jesseduncan/School/sdev264/m04/ch05_ex3_TipCalculator/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/jesseduncan/School/sdev264/m04/ch05_ex3_TipCalculator/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endColumns": "76",
+                        "endOffsets": "804"
+                    }
+                },
+                {
+                    "source": "/Users/jesseduncan/School/sdev264/m04/ch05_ex3_TipCalculator/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,19,6,5,11,10,3,14,13,9,8,2,17,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,693,257,198,441,401,144,537,487,356,301,70,639,585",
+                        "endColumns": "51,39,40,57,38,38,50,44,48,43,53,72,46,52",
+                        "endOffsets": "64,728,293,251,475,435,190,577,531,395,350,138,681,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,147,180,238,277,316,367,412,461,505,559,632,679",
+                        "endColumns": "51,39,32,57,38,38,50,44,48,43,53,72,46,52",
+                        "endOffsets": "102,142,175,233,272,311,362,407,456,500,554,627,674,727"
+                    }
+                }
+            ]
+        }
+    ]
+}
