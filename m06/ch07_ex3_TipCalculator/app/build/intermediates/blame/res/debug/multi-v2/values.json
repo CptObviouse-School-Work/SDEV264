@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jesseduncan/School/SDEV264/m06/ch07_ex3_TipCalculator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/jesseduncan/School/SDEV264/m06/ch07_ex3_TipCalculator/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,95,139,188,241,290",
+                        "endColumns": "39,43,48,52,48,39",
+                        "endOffsets": "90,134,183,236,285,325"
+                    }
+                },
+                {
+                    "source": "/Users/jesseduncan/School/SDEV264/m06/ch07_ex3_TipCalculator/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,-1,-1,13,-1,-1",
+                        "startColumns": "4,-1,-1,4,-1,-1",
+                        "startOffsets": "82,-1,-1,645,-1,-1",
+                        "endLines": "9,-1,-1,15,-1,-1",
+                        "endColumns": "12,-1,-1,12,-1,-1",
+                        "endOffsets": "574,-1,-1,778,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "21,29,33,36,39,42",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "980,1470,1648,1779,1915,2046",
+                        "endLines": "28,32,35,38,41,45",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "1465,1643,1774,1910,2041,2190"
+                    }
+                },
+                {
+                    "source": "/Users/jesseduncan/School/SDEV264/m06/ch07_ex3_TipCalculator/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "330,382,428,486,525,564,615,660,709,753,807,880,927",
+                        "endColumns": "51,45,57,38,38,50,44,48,43,53,72,46,52",
+                        "endOffsets": "377,423,481,520,559,610,655,704,748,802,875,922,975"
+                    }
+                }
+            ]
+        }
+    ]
+}

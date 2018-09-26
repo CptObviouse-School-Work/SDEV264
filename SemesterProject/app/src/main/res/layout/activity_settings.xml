@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".settings">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/inventoryLogging"
+        android:layout_marginTop="13dp"
+        android:text="Launch Location"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/inventoryLogging"
+        android:layout_width="318dp"
+        android:layout_height="78dp"
+        android:layout_centerInParent="true"
+        android:checked="false"
+        android:lineSpacingExtra="14sp"
+        android:text="Inventory Logging"
+        tools:checked="false" />
+
+
+    <RadioGroup
+        android:layout_width="318dp"
+        android:layout_height="107dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp">
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:lineSpacingExtra="8sp"
+            android:text="Home Screen" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Default Inventory" />
+
+    </RadioGroup>
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="191dp"
+        android:background="?android:attr/listDivider"
+        android:visibility="visible" />
+
+</RelativeLayout>

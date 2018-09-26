@@ -1,0 +1,4 @@
+#Tue Sep 25 16:52:33 EDT 2018
+base.0=/Users/jesseduncan/School/SDEV264/m06/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

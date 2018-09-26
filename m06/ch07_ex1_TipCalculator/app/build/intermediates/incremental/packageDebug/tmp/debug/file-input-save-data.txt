@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Sep 25 16:54:00 EDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/jesseduncan/School/SDEV264/m06/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1
